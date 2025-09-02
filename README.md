@@ -47,3 +47,6 @@ Rol modelo: Se le asigna al modelo el rol de "experto financiero en Argentina".
 Formato de respuesta: Se le exige al modelo un formato de respuesta resumida y concisa en no mas de 5 renglones.
 
 Este ejemplo demuestra cómo una única llamada a la API bien diseñada y con mayor nivel de guía, puede generar una respuesta consistente y de mejor calidad, siendo mas aplicable a la realidad.
+
+
+👉 **[Ver Prueba de Concepto (POC) en Google Colab](https://colab.research.google.com/drive/1_bFP7rpBpZmxDZu2XvtOD_GOO_y4sHrh?usp=sharing#scrollTo=BnNpQzIytivi)**
